@@ -1,0 +1,38 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    font-family: 'Cormorant Unicase', serif;
+    font-weight: 700;
+    font-size: 200%;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Cinzel', serif;
+    font-size: 125%;
+    text-align: justify;
+    font-weight: 200%;
+}
+
+img {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+#bg-image {
+        height: 100%;
+        width: 100%;
+        margin: auto;
+        background: url(assets/images/background/DSC00648.jpg) repeat 0 0;
+
+}
