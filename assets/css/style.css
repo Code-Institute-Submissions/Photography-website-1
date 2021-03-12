@@ -69,17 +69,17 @@ h1 {
     line-height: 1.6;
     padding: 10px; 
 }
-/*-- Nav bar --*/
+/*------------- Nav bar ----------------*/
 
 nav {
-    float: right;
+    float: left;
     padding: 5% 5% 0 0;
     height: 50px;
 }
 
 nav ul {
     list-style: none;
-    float: right;
+    float: left;
 
 }
 
@@ -89,7 +89,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: black;
+    color:black;
     text-decoration: none;
 }
 
@@ -99,7 +99,8 @@ nav ul li a:hover {
 }
 
 nav ul, nav:active ul {
-    display: none;
+    left: 45px;
+    top:60px;
     padding: 8px 0;
     width: 20%;
     z-index: 1000;
@@ -117,9 +118,23 @@ nav:hover ul {
 }
 
 #menu-bar {
-    width: 30px;
-    height: 26px;
+    width: 45px;
+    height: 35px;
     background: url(img/manu-bar.png) center;
     display: inline-block;
-    margin: 50px 0 0 50px;
+    margin: 80px 0 0 80px;
+    position: center;
+}
+/*------------- about section ----------------*/
+
+.right-sd {
+    margin: 4% 0 4% 4%;
+    float: left;
+    width: 36%;
+}
+
+.prof-pic {
+    margin: 6%;
+    float: right;
+    width: 36%;
 }
