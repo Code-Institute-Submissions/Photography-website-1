@@ -34,5 +34,92 @@ img {
         width: 100%;
         margin: auto;
         background: url(../images/background/DSC06097.jpg) no-repeat 50% 50% ;
+        background-size: cover;
+        display: table;
+        top: 0;
+}
 
+.start .middle {
+        display: table-cell;
+        vertical-align: middle;
+        width: 100%;
+        max-width: none;
+
+}
+
+.sign {
+        max-width: 600px;
+        margin: auto;
+}
+
+h1 {
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 280%;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    padding: 2%;
+    text-shadow: 0px 0px 250px #000;
+}
+
+.middle {
+    max-width: 600px;
+    margin: auto;
+    font-size: 170%;
+    line-height: 1.6;
+    padding: 10px; 
+}
+/*-- Nav bar --*/
+
+nav {
+    float: right;
+    padding: 5% 5% 0 0;
+    height: 50px;
+}
+
+nav ul {
+    list-style: none;
+    float: right;
+
+}
+
+nav ul li {
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 120%;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+nav ul, nav:active ul {
+    display: none;
+    padding: 8px 0;
+    width: 20%;
+    z-index: 1000;
+}
+
+nav li {
+    width: 100%;
+    padding: 8px 0 10px 7px; 
+    margin: 0;
+}
+
+nav:hover ul {
+    display:block;
+    position: absolute;
+}
+
+#menu-bar {
+    width: 30px;
+    height: 26px;
+    background: url(img/manu-bar.png) center;
+    display: inline-block;
+    margin: 50px 0 0 50px;
 }
