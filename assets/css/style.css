@@ -94,6 +94,7 @@ li {
 
 .con-move {
     margin-top: 2em;
+    
 }
 
 #text-family {
@@ -118,7 +119,7 @@ li {
 }
 
 .bg-color {
-    background-color: rgb(0, 0, 0);
+    background-image: url("../images/background/3306086.jpg");
 }
 
 /* -------rider------------- */
@@ -126,6 +127,7 @@ li {
 #photo {
     width: 100%;
     height: auto;
+
 }
 
 /* -------contact.html------------- */
