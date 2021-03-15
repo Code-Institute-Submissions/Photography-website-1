@@ -29,10 +29,12 @@ body, html {
 /* -------Header------------- */
 
 .transparent-bg{
-    background-color:rgba(255, 255, 255, 0.5);
+    background-color: black;
     
     
 }
+
+
 
 
 
@@ -90,6 +92,7 @@ li {
     
     font-family: 'Special Elite', cursive;
     font-size: 20px;
+    
 }
 
 .con-move {
@@ -100,12 +103,22 @@ li {
 #text-family {
     font-family: 'Special Elite', cursive;
     font-size: 20px;
+    text-decoration: underline;
+    
+}
+
+#contact-bg {
+    background-image: url("../images/background/1302773.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+    
 }
 /* -------footer------------- */
 
 
 .icon-color{
-    color: rgb(19, 18, 18);
+    color: rgb(255, 255, 255);
     padding-top: 0.5em;
 }
 
@@ -116,6 +129,7 @@ li {
 
 .li-alignment {
     text-align: center;
+    
 }
 
 .bg-color {
