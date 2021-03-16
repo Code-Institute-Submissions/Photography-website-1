@@ -29,7 +29,9 @@ body, html {
     .homepage-text{
         background-color: transparent;
     }
-
+    .no-picture-display {
+        display: none;
+    }
 
 }
 
