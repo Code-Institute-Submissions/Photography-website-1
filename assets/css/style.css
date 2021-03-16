@@ -18,9 +18,24 @@ body, html {
     font-family: 'Special Elite', cursive;
     font-size: 30px;
     background-color: rgb(167, 145, 117);
+    text-align: inherit;
     
-
+    
+}
+@media screen and (max-width: 600px){
+    .homepage-spacer{
+        display: none;
     }
+    .homepage-text{
+        background-color: transparent;
+    }
+
+
+}
+
+.homepage-text-row{
+    margin-top: 4em;
+}
 
 
 
@@ -124,6 +139,8 @@ li {
 
 .social-center{
     text-align: center;
+    
+    
 }
 /* -------footer------------- */
 
