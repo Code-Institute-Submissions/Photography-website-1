@@ -52,13 +52,7 @@ body, html {
 
 
 
-/* .navbar-toggler-icon {
-    display: none;
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    
-} */
+
 
 nav li:hover{
 text-decoration: underline;
