@@ -6,7 +6,16 @@
 
 # Vision of two wheels
 
- ### I want to show you my vision and passion trough photography, motorcycles and its comunity. On this web page you will see different motorcycle builds, daily life of people who share the same passion.
+
+### Welcome to "Vision of Two wheels".
+I would like to share with you my passion for photography and old-school motorcycles. 
+On this website, you will get to know a bit about the culture of old-timers and witness the gorgeous looks of these incredible machines. 
+This is dedicated to individuals who love vintage motorcycles and admires photography. 
+You will have the opportunity to navigate through different sections.
+In the section " The Biker" you will see personas who I took pictures of during road trips or events. 
+Section "The Machine" you will get to admire old timers from the 30s and so on.
+Section "The Culture" is about the culture of the same mind when it comes to vintage machines, pictures were taken during parties, road trips, and different events. 
+So! Hope you will enjoy my very first webpage and see my passion the way I see it.
 
  # --------------------------------------------
 
@@ -53,7 +62,7 @@
 
 ## Imagery
 
-* The homepage background image is created with color burst for good visual expereince.
+* Black and white theme was created to bring better feeling of old times.
 * All imagery was taking by website owner.
 
 
@@ -63,19 +72,22 @@
  # --------------------------------------------
  
  ## Wireframe
-* Homepage desktop - [view](wireframe/desktop/homepage.png)
-* Homepage mobile - [view](wireframe/mobile/homepage.png)
-* Homepage tablet - [view](wireframe/tablet/homepage.png)
+* Home - [view](assets/wireframe/Home.png)
+* The Biker - [view](assets/wireframe/TheBiker.png)
+* The Machine - [view](assets/wireframe/TheMachine.png)
+* The Culture - [view](assets/wireframe/TheCulture.png)
+* About - [view](assets/wireframe/About.png)
+* Contact - [view](assets/wireframe/Contact.png)
 
 # --------------------------------------------
 
  ## Features
    * Resposive on all devices
    * Interective elements
-   * Animated homepage
-   * Galerry
+   * Black and White color theme images
    * About
-   * Contact
+   * Contact form
+   
 
 # --------------------------------------------  
 
