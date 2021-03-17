@@ -118,9 +118,14 @@ So! Hope you will enjoy my very first webpage and see my passion the way I see i
 
 6. [Balsamiq](https://balsamiq.com/)
     * Balsamiq was used to creat wireframes during design process.
-    
+
+7. [wallpaperaccess](https://wallpaperaccess.com/old-newspaper)
+    * was used to create back ground image for "bike, machine, culture and about "
 
 # Testing 
+
+## Lighthouse results:
+![vision of twe wheels](assets/images/lighthouse/lt-results.png)
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -145,15 +150,28 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         c. Contact page is designed to give the option to use for contacting the host with a possibility to leave a message.
 
 
-### Returning Visitor Goals
+### Returning Visitor Goals:
 
         a. As a returining user i want to find updated pictures, maybe an option for a gallery in the Future. 
         b. As a returining user i want to find links for events and more info on motorcycles.
         c. As a returining user i want to find tip and trick on photography.
 
-### Frequent User Goals 
+### Frequent User Goals: 
 
         a. Frequent users will be able to find new information on photography equipment.
         b. Frequent users will have the opportunity to view updated images.
         c. Frequent users will be given more information about motorcycle builds.
 
+### Further Testing:
+
+a. Mobile version testing (Oneplus7pro, Iphone7/8/9/10.., Ipad pro, I pad )
+b. Browsers test ( firefox, internet explorer, google chrome, brave, opra.)
+c. Testing web site was commited by friends and family members, to check sites responsiveness and layout.
+d. Night mode on mac and windows. 
+
+# Credits 
+
+* [Stackoverflow](https://stackoverflow.com/) - thank you to this amazing community for possibility to get good info.
+* [W3schools](https://www.w3schools.com/) - one of the best library of explanation and tutorials.
+* [Bootstrap](https://getbootstrap.com/) - Using this amazing library of codes it was a big help.
+* [Codeinstitute](https://codeinstitute.net/) - big thanks to code institute for creating this amazing program to learn coding !!!!!!
