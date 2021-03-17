@@ -104,7 +104,7 @@ So! Hope you will enjoy my very first webpage and see my passion the way I see i
    * Bootstrap was used to make better responsiveness and styling of the website.
 
 2. [Google Fonts](https://fonts.google.com/)
-    * Google Fonts was used to import Dancing Script, cursive font in the style.css file witch is used to all pages.
+    * Google Fonts was used to import Special Elite, cursive font in the style.css file witch is used to all pages.
 
 3. [Git](https://git-scm.com/)
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
@@ -119,8 +119,40 @@ So! Hope you will enjoy my very first webpage and see my passion the way I see i
     * Balsamiq was used to creat wireframes during design process.
     
 
+# Testing 
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_input+with_options)
+
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+## Testing User stories
+
+* First Time Visitor Goals
+
+    i. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+
+        a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice.
+        b. The main point are made. with the hero image.
+        c. The users are presented with 6 ptions to easy navigate throught page.
+
+    ii. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+
+        a. The site has been designed for a clear understanding for users, all options located in the same space with clear font and clear colors.
+        b. At the bottom user will find clear usable icons for social media, user can use "home" to navigate back to the homepage. 
+        c. Contact page is designed to give the option to use for contacting the host with a possibility to leave a message.
 
 
+### Returning Visitor Goals
 
+        a. As a returining user i want to find updated pictures, maybe an option for a gallery in the Future. 
+        b. As a returining user i want to find links for events and more info on motorcycles.
+        c. As a returining user i want to find tip and trick on photography.
 
+### Frequent User Goals 
+
+        a. Frequent users will be able to find new information on photography equipment.
+        b. Frequent users will have the opportunity to view updated images.
+        c. Frequent users will be given more information about motorcycle builds.
 
