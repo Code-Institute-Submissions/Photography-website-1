@@ -6,6 +6,7 @@
 
 # Vision of two wheels
 
+![vision of twe wheels](assets/images/mockup/Mockup.png)
 
 ### Welcome to "Vision of Two wheels".
 I would like to share with you my passion for photography and old-school motorcycles. 
